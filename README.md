@@ -14,5 +14,6 @@ This project creates a seamless, automated system for analyzing and reporting ca
 
 The process begins with a student filling out a Career Assessment form on Microsoft Forms. The form collects various inputs related to the student's preferences, strengths, and career interests.
 
-[Form.pdf](https://github.com/user-attachments/files/16573119/Form.pdf)
+![‎Form ‎1](https://github.com/user-attachments/assets/02c95aa5-6363-418d-8f06-da15beb1039e)
+
 
