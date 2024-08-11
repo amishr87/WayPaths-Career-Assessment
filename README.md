@@ -35,11 +35,20 @@ The backend of the system is implemented using C# with the .NET framework. This 
 
 After calculating the scores, the system identifies the top 3 traits and the top 3 skills for the student. These results are then updated in the Azure SQL Database, providing a structured record of the student's strengths.
 
+<img width="1512" alt="Screenshot 2024-08-10 at 9 26 46 PM" src="https://github.com/user-attachments/assets/ea119ce2-30cc-49a7-be84-c9a028713ffc">
+
+
 ## Automation with Microsoft Power Automate:
 
 The entire process is automated using Microsoft Power Automate. Power Automate is configured to trigger the backend processing code each time a new form submission is received. This ensures that the data processing happens automatically, without the need for manual intervention.
 
 Additionally, Power Automate is used to send out a personalized email to the student after their assessment is processed. The email contains the results of their assessment, including their top traits and skills, helping them understand their strengths and potential career paths.
+
+<img width="1512" alt="Screenshot 2024-08-10 at 8 58 42 PM" src="https://github.com/user-attachments/assets/9e0417cd-b43a-405b-a154-73a5f00e56d6">
+
+<img width="893" alt="Screenshot 2024-08-10 at 9 28 52 PM" src="https://github.com/user-attachments/assets/a5403a02-f02c-4529-964a-3fec7e820572">
+
+
 
 ## Project Benefits:
 
