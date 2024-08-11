@@ -28,6 +28,8 @@ Once the form is submitted, the collected data is automatically stored in an Azu
 
 The backend of the system is implemented using C# with the .NET framework. This backend application connects to the Azure SQL Database, retrieves the latest assessment data, and calculates various trait and skill scores for the individual based on their responses. The scoring logic is designed to identify key traits (e.g., creativity, leadership) and essential skills (e.g., problem-solving, communication).
 
+![‎Backend ‎1](https://github.com/user-attachments/assets/0bedbe3a-0acc-49b0-8592-4052230e5530)
+
 
 ## Top Traits and Skills Identification:
 
