@@ -21,6 +21,8 @@ The process begins with a student filling out a Career Assessment form on Micros
 
 Once the form is submitted, the collected data is automatically stored in an Azure SQL Database. The database is designed to securely store and manage the assessment data for subsequent processing.
 
+<img width="1512" alt="Screenshot 2024-08-10 at 8 34 32 PM" src="https://github.com/user-attachments/assets/185bcadd-0d11-49c2-bbda-d50c60c7b4a9">
+
 
 ## Backend Processing:
 
